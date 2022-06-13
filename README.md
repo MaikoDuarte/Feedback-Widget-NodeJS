@@ -39,8 +39,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-NodeJS
-Prisma
+<p>NodeJS</p>
+<p>Prisma</p>
 
 ## 💻 Projeto
 
